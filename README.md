@@ -42,7 +42,7 @@ This list began on Reddit in response to the number of people I’ve come across
 Each and every language resource listed on here, unless stated otherwise, is completely free: as a lot of these languages are endangered and thus already have less learning resources than more widely-spoken languages, it’s important to ensure prospective learners aren’t further inhibited by financial barriers. Be sure to contact Hazine (hazineblog [@]gmail.com) or myself ([Twitter: @HatimAlTai2](https://twitter.com/hatimaltai2?s=21)) if you have any resources to add, or any comments on the resources here!
 So, without further ado:
 
-Abbreviations
+## Abbreviations
 
 -   ENG: English
 -   ARB: Arabic
@@ -57,7 +57,7 @@ Abbreviations
 -   VID: Video series
 -   OTH: Doesn't fit into any of the above-mentioned categories
 
-Andaandi Nubian (Dongolawi)
+## Andaandi Nubian (Dongolawi)
 
 -   [Anter Alsharif's YouTube Channel](https://www.youtube.com/channel/UCpGfXpED6Rurj_Rw1vFD7WA) (ARB, VID)
 
@@ -90,7 +90,7 @@ Andaandi Nubian (Dongolawi)
 
 -   This page includes song translations and vocabulary lists, but the best thing is that the vocab is generally accompanied by audio which is great for learning pronounciation. My biggest issue is the reliance on Arabic transcription; thankfully there's the audio, but otherwise Arabic letters just don't work for Nubian.
 
-Beria (Zaghawa)
+## Beria (Zaghawa)
 
 -   [Beria by Alsadik Sidik and Bormay Nill](http://suntuwekane.memoryoftheworld.org/#/book/451ceaf4-8249-44f3-b884-6cb70207755c) (BER, OTH)
 -   [Beria Dictionary by Roger Blench](http://suntuwekane.memoryoftheworld.org/#/book/27bf9195-67ca-4b2c-9d69-a7df342418b0) (ENG, DICT IL->ENG)
@@ -100,7 +100,7 @@ Beria (Zaghawa)
 
 -   [The Simplest Way for Learning the Zaghawa Language by Nasradin Mohammed Adam](http://suntuwekane.memoryoftheworld.org/#/book/6f1ae835-4e54-432c-bdf8-07f7b73b272a) (ENG/ARB, TXT)
 
-Bertha (Funj)
+## Bertha (Funj)
 
 -   [Bertha - English - Amharic - Arabic Dictionary by Susanne Neudorf and others](https://ur.b-ok.lat/book/5862128/d68ce3) (ENG, DICT IL->ENG/ARB/AMH)
 
@@ -110,13 +110,13 @@ Bertha (Funj)
 
 -   The goal of this study is to present basic information about the language's grammar and phonology in textbook form, but, from what I've read of it, it requires a degree of linguistic knowledge (i.e. knowledge of various grammatical and phonological terms, IPA literacy).
 
-Bidawiyet (Beja, i.e. Hadandawa and Bishariin)
+## Bidawiyet (Beja, i.e. Hadandawa and Bishariin)
 
 -   [Beja Pedagogical Grammar by Klaus and Charlotte Wedekind and Abuzeinab Musa](https://www.afrikanistik-aegyptologie-online.de/archiv/2008/1283/beja_pedagogical_grammar_final_links_numbered.pdf) (ENG, TXT/GRAM)
 
 -   This book is apparently written and structured with language learners in mind, but, from my quick assessment, leans heavily on a lot of linguistic vocabulary, so a degree of linguistic know-how is helpful in ways it may not be for other books. It is also supposed to be accompanied by audio data, but I haven't located it.
 
-Fòòraŋ Bèlè (Fur)
+## Fòòraŋ Bèlè (Fur)
 
 -   [Omad Korom's YouTube Channel](https://www.youtube.com/channel/UCrVeML9l0hrHEeamqp2KViw/videos) (ARB/FUR, VID)
 
@@ -130,7 +130,7 @@ Fòòraŋ Bèlè (Fur)
 
 -   The channel actually features a mixture of languages: there's some English in there, some Arabic, but primarily it seems like a lot of the videos are totally in Fur, so it may not be useful until you have a basis in the language.
 
-Masarak (Masalit)
+## Masarak (Masalit)
 
 -   [Kana masaraka gâr meni!](https://kanamasaraka.wordpress.com/) (ENG/ARB/FREN, OTH)
 
@@ -139,7 +139,7 @@ Masarak (Masalit)
 
 -   [A Masalit Grammar with Notes on Other Languages of Darfur and Wadai by John Edgar](http://suntuwekane.memoryoftheworld.org/John%20Edgar/A%20Masalit%20Grammar_%20With%20Notes%20on%20Other%20Languages%20of%20Darfur%20and%20Wadai%20(272)/A%20Masalit%20Grammar_%20With%20Notes%20on%20Other%20Lan%20-%20John%20Edgar.pdf) (ENG, GRAM)
 
-Nobiin Nubian (Halfawi/Mahasi/Fadijja)
+## Nobiin Nubian (Halfawi/Mahasi/Fadijja)
 
 -   PAID: [Basic Nubian Language and Grammar by Taharqa Sa Amun](https://www.amazon.com/Basic-Nubian-Language-Grammar-Taharqa/dp/1628471077) (ENG, TXT)
 
@@ -169,7 +169,7 @@ Nobiin Nubian (Halfawi/Mahasi/Fadijja)
 
 -   See comments in Andaandi section.
 
-Tìdn-Àal (Midob/Darfur Nubian)
+## Tìdn-Àal (Midob/Darfur Nubian)
 
 -   [Tìdn-Àal: A Study of Midob (Darfur Nubian) by Roland Werner](http://suntuwekane.memoryoftheworld.org/#/book/9848c359-0e21-4387-aa6d-829f554c0a73) (ENG, GRAM)
 
@@ -177,7 +177,7 @@ Tìdn-Àal (Midob/Darfur Nubian)
 
 -   [Midob Language Blog by Manfred Gruning](http://midob-language.blogspot.com/) (ENG, OTH)
 
-Tigre/Tigrayit (spoken by groups like the Beni Amer and Habab)
+## Tigre/Tigrayit (spoken by groups like the Beni Amer and Habab)
 
 -   [Dehai Tigre Page](http://www.people.vcu.edu/~gasmerom/Eritrean_languages/tigre/) (ENG, TXT)
 
