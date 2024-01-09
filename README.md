@@ -32,6 +32,16 @@ I hope so. The goal of creating and releasing this version of The Nubian Diction
 # Useful Resources
 Every single resource linked here is totally free unless stated otherwise. Feel free to suggest any you've come across!
 
+# Resources for Learning Non-Arabic Sudanese Languages
+[Article](https://hazine.info/resources-non-arabic-sudanese-languages/)
+By Hatim-Arbaab Eujayl
+Updated June 21 2021
+
+This list began on Reddit in response to the number of people I’ve come across on the subreddit interested in learning non-Arabic Sudanese languages, [which you can still find here](https://www.reddit.com/r/Sudan/comments/k7lxbx/resources_for_learning_indigenous_sudanese/). The goal is to provide any prospective learners of non-Arabic languages spoken in Sudan with a variety of language-learning resources. The languages I’ve been able to find resources for (with the help of many others).
+
+Each and every language resource listed on here, unless stated otherwise, is completely free: as a lot of these languages are endangered and thus already have less learning resources than more widely-spoken languages, it’s important to ensure prospective learners aren’t further inhibited by financial barriers. Be sure to contact Hazine (hazineblog [@]gmail.com) or myself ([Twitter: @HatimAlTai2](https://twitter.com/hatimaltai2?s=21)) if you have any resources to add, or any comments on the resources here!
+So, without further ado:
+
 Abbreviations
 
 -   ENG: English
